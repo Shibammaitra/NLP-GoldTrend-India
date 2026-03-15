@@ -2,9 +2,7 @@
 # India 24K Gold Price Prediction using NLP
 
 ## Overview
-This project builds a data science pipeline that combines real-time financial news sentiment with historical gold price data to analyze and predict movements in India's 24K gold price.
-
-The system automatically collects news headlines related to gold, performs Natural Language Processing (NLP) sentiment analysis, merges this information with gold price data, and produces analytical insights and predictive modeling outputs.
+This project builds a data science pipeline that combines real-time financial news sentiment with historical gold price data to analyze and predict movements in India's 24K gold price.The system automatically collects news headlines related to gold, performs Natural Language Processing (NLP) sentiment analysis, merges this information with gold price data, and produces analytical insights and predictive modeling outputs.
 
 ## Project Objectives
 - Collect real-time gold-related news articles
@@ -15,9 +13,7 @@ The system automatically collects news headlines related to gold, performs Natur
 
 ## Pipeline Architecture
 
-News Sources → Text Preprocessing → Sentiment Analysis →  
-Gold Price Data Integration → Feature Engineering →  
-Prediction Model → Visualization
+News Sources → Text Preprocessing → Sentiment Analysis → Gold Price Data Integration → Feature Engineering → Prediction Model → Visualization
 
 ## Repository Structure
 
