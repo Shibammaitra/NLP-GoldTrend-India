@@ -64,8 +64,8 @@ Data Sources:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/india-gold-price-nlp-prediction.git
-cd india-gold-price-nlp-prediction
+git clone https://github.com/your-username/NLP-GoldTrend-India.git
+cd NLP-GoldTrend-India
 ```
 
 2. Install dependencies
