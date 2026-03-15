@@ -3,6 +3,10 @@
 ## Overview
 This project builds a data science pipeline that combines real-time financial news sentiment with historical gold price data to analyze and predict movements in India's 24K gold price.The system automatically collects news headlines related to gold, performs Natural Language Processing (NLP) sentiment analysis, merges this information with gold price data, and produces analytical insights and predictive modeling outputs.
 
+**Problem:** Traditional gold price models ignore news sentiment—a key driver of India's volatile 24K gold market (₹1,93,000+/10g), where financial headlines, festivals, and global events cause unpredictable swings missed by time-series alone.
+
+**Solution:** NLP pipeline automating RSS news → sentiment analysis → gold price fusion → predictive modeling, delivering real-time insights for traders/researchers lacking sentiment-aware forecasting tools.
+
 ## Project Objectives
 - Collect real-time gold-related news articles
 - Perform NLP-based sentiment analysis
